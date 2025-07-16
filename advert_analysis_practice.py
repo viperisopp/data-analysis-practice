@@ -76,7 +76,7 @@ plt.subplot(1,4,4)
 plt.bar(index1,y_test_adverts_combined[:10],color="blue",width=0.1)
 plt.bar(index2,adverts_combined_predict[:10],color="orange",width=0.1)
 plt.legend(["actual","predicted"])
-plt.title("multi-linear regression actual vs predicted")
+plt.title("actual sales vs predicted sales for test dataset")
 
 
 plt.suptitle("train and test data")
