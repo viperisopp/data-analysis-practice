@@ -10,7 +10,7 @@ diabetes = load_diabetes()
 df = pd.DataFrame(diabetes.data,columns=diabetes.feature_names)
 
 x = df[["age","sex","bmi"]].to_numpy()
-y = df["s6"].to_numpy()
+y = diabetes.target
 x = np.reshape(x,(-1,3))
 
 x_train, x_test, y_train, y_test = train_test_split(x,y,test_size=0.2)
