@@ -9,7 +9,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error,r2_score
 from sklearn.model_selection import train_test_split
 
-df = pd.read_csv("tv_advertising.csv")
+df = pd.read_csv("datasets/tv_advertising.csv")
 
 df = df.drop(columns=["index"])
 
