@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains Python scripts that I made to practice different parts of data cleaning, mining, and simple ML models. A bonus is that this github repository allows me to get comfortable with miscellaneous parts of git and learn standard open source protocol. 
+This repository contains Python scripts that I made to practice different parts of data cleaning, mining, and simple ML models. A bonus is that this github repository allows me to get comfortable with miscellaneous parts of git and learn standard open source protocol.
 
 ## Directory Structure
 
@@ -43,7 +43,7 @@ make sure your files reflect the structure of the repo
 
 ## Contributing
 
-If you somehow, somewhere, somewhy happen to stumble on this repo and want to help a learning developer out, feel free to fork the repo and submit pull requests to improve this format
+If you somehow, somewhere, somewhy happen to stumble on this repo and want to help a learning developer out, feel free to fork the repo and submit pull requests to improve this format.
 
 ## License
 This project is Licensed under the MIT License.
