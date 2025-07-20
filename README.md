@@ -7,27 +7,38 @@ This repository contains Python scripts that I made to practice different parts 
 ## Directory Structure
 
 data-anaylsis-practice/
+
 |--- datasets/ # Raw CSV files used for practice
+
 |--- advert_analysis_practice.py
+
 |--- diabetes_model.py
+
 |___ README.md
 
 ## Installation
 
 1. Clone the repository:
+
 git clone https://github.com/viperisopp/data-analysis-practice
+
 cd data-analysis-practice
 
 2. (Optional) Create a virtual environment:
+
 python3 -m venv venv
+
 source venv/bin/activate
 
 3. install required packages:
+
 pip3 install -r requirements.txt
 
 ## Usage 
 Run the programs however you want! Example in your terminal:
+
 python3 diabetes_model.py
+
 make sure your files reflect the structure of the repo
 
 ## Contributing
