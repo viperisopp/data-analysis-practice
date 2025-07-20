@@ -10,7 +10,7 @@ from sklearn.metrics import mean_squared_error,r2_score
 from sklearn.model_selection import train_test_split
 from sklearn.datasets import load_diabetes
 
-df = pd.read_csv("csves/red_wine.csv")
+df = pd.read_csv("datasets/red_wine.csv")
 
 
 y = df["quality"].to_numpy()
